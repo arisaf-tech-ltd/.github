@@ -1,4 +1,4 @@
-# Welcome to AriSaf Tech Ltd. 🇧🇩🇯🇵
+# Welcome to AriSaf Tech Ltd.
 
 ### 🚀 Innovating with Education & Technology
 We are a premier software development company based in Bangladesh, specializing in delivering high-quality tech solutions to global clients, with a strong footprint in the Japanese market. Since 2016, we have been helping businesses scale with cutting-edge software and team sourcing.
@@ -45,7 +45,7 @@ Ready to build your next project?
 * 📧 **Email:** info@arisaftech.com.bd
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AriSafTech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/company/arisaf-tech))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/arisaf-tech)
 
 ---
 <p align="center">
