@@ -33,11 +33,6 @@ We are proud to work with amazing companies across the globe.
 
 ![Our Valued Clients](clients.png)
 
-> "Working with AriSaf Tech, I felt their curiosity for the latest web technology is higher than Japanese engineers." 
-> — **Keisuke Satomi**, CTO, DreamPirates Inc.
-
-> "Passionate team managing tasks with the same goal as members in Japan."
-> — **Ryoji Danbara**, CEO, SeaZoo Japan.
 
 ---
 
