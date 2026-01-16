@@ -29,6 +29,10 @@ We use modern technologies to build scalable products:
 ---
 
 ### 🤝 Our Clients Love Us
+We are proud to work with amazing companies across the globe.
+
+![Our Valued Clients](clients.png)
+
 > "Working with AriSaf Tech, I felt their curiosity for the latest web technology is higher than Japanese engineers." 
 > — **Keisuke Satomi**, CTO, DreamPirates Inc.
 
